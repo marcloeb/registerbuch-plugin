@@ -1,0 +1,25 @@
+{
+  "name": "protime-register",
+  "displayName": "Protime Register",
+  "version": "2.0.0",
+  "description": "Swiss commercial register for Claude, with a source link on every answer. Look up companies, signatories, audit mandates, bankruptcies and building applications, estimate company size, and check texts against the register.",
+  "author": {
+    "name": "blueSky Information GmbH",
+    "url": "https://protime.ai"
+  },
+  "homepage": "https://protime.ai/de/firmen-pruefen",
+  "repository": "https://github.com/marcloeb/protime-register-plugin",
+  "keywords": [
+    "switzerland",
+    "commercial-register",
+    "shab",
+    "due-diligence",
+    "compliance"
+  ],
+  "license": "MIT",
+  "icon": "./assets/logo.png",
+  "supportUrl": "https://protime.ai/de/contact",
+  "privacyPolicyUrl": "https://protime.ai/de/privacy-policy",
+  "termsOfServiceUrl": "https://protime.ai/de/terms-of-service",
+  "documentationUrl": "https://protime.ai/de/firmen-pruefen"
+}

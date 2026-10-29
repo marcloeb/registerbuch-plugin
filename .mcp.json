@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "protime": {
+      "type": "http",
+      "url": "https://mcp.protime.ai/register/mcp"
+    }
+  }
+}
