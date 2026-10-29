@@ -1,14 +1,14 @@
 {
-  "name": "protime-register",
-  "displayName": "Protime Register",
+  "name": "registerbuch",
+  "displayName": "Registerbuch",
   "version": "2.0.0",
-  "description": "Swiss commercial register for Claude, with a source link on every answer. Look up companies, signatories, audit mandates, bankruptcies and building applications, estimate company size, and check texts against the register.",
+  "description": "By blueSky Information GmbH (Protime). Swiss commercial register for Claude, with a source link on every answer. Look up companies, signatories, audit mandates, bankruptcies and building applications, estimate company size, and check texts against the register. Not an official register extract.",
   "author": {
     "name": "blueSky Information GmbH",
-    "url": "https://protime.ai"
+    "url": "https://registerbuch.ch"
   },
-  "homepage": "https://protime.ai/de/firmen-pruefen",
-  "repository": "https://github.com/marcloeb/protime-register-plugin",
+  "homepage": "https://registerbuch.ch",
+  "repository": "https://github.com/marcloeb/registerbuch-plugin",
   "keywords": [
     "switzerland",
     "commercial-register",
@@ -21,5 +21,5 @@
   "supportUrl": "https://protime.ai/de/contact",
   "privacyPolicyUrl": "https://protime.ai/de/privacy-policy",
   "termsOfServiceUrl": "https://protime.ai/de/terms-of-service",
-  "documentationUrl": "https://protime.ai/de/firmen-pruefen"
+  "documentationUrl": "https://registerbuch.ch/so-funktionierts"
 }

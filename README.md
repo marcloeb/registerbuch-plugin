@@ -1,6 +1,6 @@
-# Protime Register
+# Registerbuch
 
-Swiss commercial register for Claude, by blueSky Information GmbH.
+Swiss commercial register for Claude, by blueSky Information GmbH (Protime).
 
 Look up any Swiss company in the Swiss Official Gazette of Commerce (SHAB) back to 2002: registrations, mutations, deletions, bankruptcies with creditor filing deadlines. Ask who signs for a company, which audit firm checks its books, count bankruptcies across a canton, check a list of companies at once, or search building applications in 13 cantons. Every answer links its signed source document. Company-size figures are estimates and marked as such. Not an official register extract.
 
@@ -10,7 +10,7 @@ Before you send a report or client mail that names Swiss companies, let Claude c
 
 | Skill | Use |
 |---|---|
-| `/protime-register:check` | Check one or more Swiss companies |
+| `/registerbuch:check` | Check one or more Swiss companies |
 | `swiss-register` | Loads automatically for register questions |
 | `claim-check` | Loads automatically when a text about Swiss companies should be verified |
 

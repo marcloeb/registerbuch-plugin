@@ -1,10 +1,10 @@
 # Connectors
 
-This plugin brings its own connector: the Protime Register MCP server.
+This plugin brings its own connector: the Registerbuch MCP server.
 
 | Connector | Endpoint | Authentication |
 |-----------|----------|----------------|
-| **Protime Register** | `https://mcp.protime.ai/register/mcp` | OAuth 2.0 with PKCE (Dynamic Client Registration) |
+| **Registerbuch** | `https://mcp.protime.ai/register/mcp` | OAuth 2.0 with PKCE (Dynamic Client Registration) |
 
 The server is declared in `.mcp.json` and activates when you install the plugin. On first use you sign in with your Protime account.
 
@@ -24,7 +24,7 @@ The tools work for every account within a free quota.
 
 ## Optional integrations
 
-These connectors fit well alongside Protime Register when installed separately:
+These connectors fit well alongside Registerbuch when installed separately:
 
 | Connector | Use |
 |-----------|-----|

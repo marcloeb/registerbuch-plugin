@@ -12,8 +12,8 @@ Argument: [company names or UIDs, comma-separated]
 ## Usage
 
 ```
-/protime-register:check Muster AG
-/protime-register:check Muster AG, Beispiel Bau GmbH, CHE-123.456.789
+/registerbuch:check Muster AG
+/registerbuch:check Muster AG, Beispiel Bau GmbH, CHE-123.456.789
 ```
 
 ## Instructions
